@@ -1,0 +1,8 @@
+{
+    "mongo_uri": "mongodb+srv://MaoCarmona:MaoCarmona123@clusterustest.7owvk.mongodb.net/?retryWrites=true&w=majority&appName=ClusterUsTest",
+    "database_name": "fund_db",
+    "host_email": "kevincarmona790@gmail.com",
+    "twilio_tk": "69d2faef11fc516a7fef57669b24d1f1",
+    "twilio_account_sid": "ACd182b14cb2f173844c691eec35437bf0",
+    "host_number": "'+14356024297'"
+}
